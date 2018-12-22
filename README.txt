@@ -1,15 +1,10 @@
-Okay so congratulations for getting it this far, most people don't read these...
-
 This program is meant to reduce the size of a massive text files containing A's, T's,
-C's, and G's.
-
-Using is super simple.
+C's, and G's. This is merely a representation of what can be done, and not the most
+optimal implementation. It's written this way to prove proof of concept.
 
 Note: You do not have to follow these steps if all you desire is a demonstration.
 Just run CreatingTrashCharData.java, TransferringCharsToBytes.java, and 
 ReadingCharsFromBytes.java in that specific order.
-
-To run thought specific file:
 
 1.  Open the source code of TransferringCharsToBytes.java and replace "fakeData.txt" with
     the path of the text file you want to use. Include quotation marks in the code.
